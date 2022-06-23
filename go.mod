@@ -3,6 +3,7 @@ module github.com/phpseven/sp-app
 go 1.18
 
 require (
+	github.com/avct/uasurfer v0.0.0-20191028135549-26b5daa857f1
 	github.com/spiral/broadcast v1.1.2
 	github.com/spiral/broadcast-ws v1.1.3
 	github.com/spiral/jobs/v2 v2.2.2
@@ -11,8 +12,6 @@ require (
 )
 
 require (
-	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
-	github.com/avct/uasurfer v0.0.0-20191028135549-26b5daa857f1 // indirect
 	github.com/aws/aws-sdk-go v1.16.14 // indirect
 	github.com/beanstalkd/go-beanstalk v0.0.0-20180822062812-53ecdaa3bcfb // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
@@ -32,7 +31,6 @@ require (
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/konsorten/go-windows-terminal-sequences v1.0.3 // indirect
 	github.com/magiconair/properties v1.8.5 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
